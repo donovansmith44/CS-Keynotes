@@ -1,0 +1,9 @@
+#+title: Keynotes
+
+*** Recursive and Complete Definitions
+**** Given an infinite set of variables V, the set of all lambda terms Λ may be defined by:
+Λ = V|(ΛΛ)|(λV.Λ)
+
+*** The Elegance of LISP
+**** clojure.core.match
+**** Instaparse
